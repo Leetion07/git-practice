@@ -1,1 +1,2 @@
 1.txt is created
+2.git commit --amend by mistake
